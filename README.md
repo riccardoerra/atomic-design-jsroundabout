@@ -1,11 +1,11 @@
-# Atomic design
+# atom-design-jsroundabout
 
-This is repo for a lunch 'n' learn given by [Riccardo](https://github.com/riccardoerra) as part of an ongoing Small Media lunch 'n' learn series.
+This is the repo for a talk given by [Riccardo](https://github.com/riccardoerra) as part of [The JS Roundabout](https://www.meetup.com/The-JS-Roundabout/) meetup on [Atomic Design & React](https://www.meetup.com/The-JS-Roundabout/events/252499439/).
 
-It's meant to be as an informal resource sharing, that would hopefully be helpful for other people.
-
-## Lunch 'n' learns:
-- [sketchnoting-talk](https://github.com/smallmedia/sketchnoting-talk)
+It's meant to be an informal resource for sharing, that would hopefully be helpful for other people.
 
 ## Resources:
-- [Presentation system](https://github.com/tmcw/big)
+
+- [Slides made using Big](https://github.com/tmcw/big)
+- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws)
+- [Hackney Council](http://hackit.org.uk)

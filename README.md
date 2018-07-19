@@ -13,6 +13,7 @@ It's meant to be an informal resource for sharing, that would hopefully be helpf
 - [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [Style Guide Podcast](http://styleguides.io/podcast/)
 - [Atomic Design book](http://atomicdesign.bradfrost.com)
+- [Fractal](https://fractal.build)
 
 ## Images/Gifs sources
 

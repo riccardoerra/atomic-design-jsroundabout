@@ -2,6 +2,8 @@
 
 This is the repo for a talk given by [Riccardo](https://github.com/riccardoerra) as part of [The JS Roundabout](https://www.meetup.com/The-JS-Roundabout/) meetup on [Atomic Design & React](https://www.meetup.com/The-JS-Roundabout/events/252499439/).
 
+Link to the video of the talk: (https://www.youtube.com/watch?v=q7b1W47Fbng)
+
 It's meant to be an informal resource for sharing, that would hopefully be helpful for other people.
 
 ## Resources:
